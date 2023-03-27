@@ -1,0 +1,27 @@
+Introduction:
+
+Container  Storage Interface is a initiative to unify the storage interface of container orchestrator storage(COs) like kubernetes, Docker
+etc. and combined storage vendor of nets app etc.
+containers is sweeping the data centres.
+
+Project Summary:
+
+Project name :container storage interface
+Project licence: Apache 2.0
+Organization: Google
+
+Basic Terminalogices of Container Storage Interface :
+
+1.Container Orchestrator storage
+2.Nodes
+3.Vendors
+4.Pulgin
+5.Workload
+
+Benfits of Container Storage Interface:
+
+1.It reduces the workload
+2.It reduces the time duration
+3.Operability
+4.Focus on specification
+5.Easy to store the data

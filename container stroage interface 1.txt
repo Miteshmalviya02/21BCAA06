@@ -13,7 +13,21 @@ Project licence: Apache 2.0
 Organization: Google
 
 Basic Terminalogices of Container Storage Interface :
-1.Container 
+
+1.Container Orchestrator storage
+2.Nodes
+3.Vendors
+4.Pulgin
+5.Workload
+
+Benfits of Container Storage Interface:
+
+1.It reduces the workload
+2.It reduces the time duration
+3.Operability
+4.Focus on specification
+5.Easy to store the data
+
 
 
 
